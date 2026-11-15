@@ -1,0 +1,6 @@
+{
+  "name": "Archivo Cero — Protocolo Gouxa 2046",
+  "description": "Juego de investigación narrativa asincrónica para La Cebolla ambientado en la casa de Gouxa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
